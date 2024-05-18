@@ -4,6 +4,7 @@ import express, { Request, Response } from "express";
 import cors from "cors";
 import { v2 as cloudinary } from "cloudinary";
 import userRouter from "./routes/userRoute";
+import bookRouter from "./routes/bookRoute";
 
 const PORT = process.env.PORT || 7000;
 
@@ -28,6 +29,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.use("/api/user", userRouter);
+app.use("/api/books", bookRouter);
 
 app.get("/health", (req: Request, res: Response) => {
   res.json({ message: "health ok" });
