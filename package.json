@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "nodemon",
     "start": "./dist/index.js",
-    "build": "npm install &&  npx tsc"
+    "build": "npm install &&  npx tsc",
+    "seed": "nodemon ./src/seed.ts"
   },
   "author": "",
   "license": "ISC",

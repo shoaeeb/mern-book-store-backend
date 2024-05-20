@@ -94,9 +94,48 @@ const uploadResponse = async (imageFile: Express.Multer.File) => {
   return upload.url;
 };
 
+const searchBook = async (req: Request, res: Response) => {
+  try {
+    const pageSize = 10;
+    const page = req.query.page ? Number(req.query.page) : 1;
+    const skip = (page - 1) * pageSize;
+    let query: any = {};
+    if (req.query.query) {
+      query.$or = [
+        { title: { $regex: req.query.query, $options: "i" } },
+        { author: { $regex: req.query.query, $options: "i" } },
+      ];
+    }
+    const count = await Books.countDocuments(req.query);
+    let book: any = [];
+    let total = 0;
+    if (count !== 0) {
+      console.log(query);
+      book = await Books.find(query).skip(skip).limit(pageSize);
+      total = await Books.countDocuments(req.query);
+    } else {
+      book = await Books.find().skip(skip).limit(pageSize);
+      total = await Books.countDocuments();
+    }
+    const response = {
+      data: book,
+      pagination: {
+        total,
+        page,
+        pages: Math.ceil(total / pageSize),
+      },
+    };
+    res.json(response);
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ message: "Something went wrong" });
+  }
+};
+
 export default {
   addBook,
   myAddedBooks,
   getSingleBookById,
   updateBook,
+  searchBook,
 };

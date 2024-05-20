@@ -1,11 +1,12 @@
 [
   {
     "_id": "651a501746a92da7981902f7",
-    "tite": "The Maid",
+    "title": "The Maid",
     "author": "Nita Prose",
     "publicationYear": "2002",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643228739i/55196813.jpg",
     "genre": ["Mystery"],
+    "price": 53300,
     "description": "Since Gran died a few months ago, twenty-five-year-old Molly has been navigating life's complexities all by herself. No matter—she throws herself with gusto into her work as a hotel maid. Her unique character, along with her obsessive love of cleaning and proper etiquette, make her an ideal fit for the job. She delights in donning her crisp uniform each morning, stocking her cart with miniature soaps and bottles, and returning guest rooms at the Regency Grand Hotel to a state of perfection."
   },
   {
@@ -15,6 +16,7 @@
     "publicationYear": "2022",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649848581i/60435878.jpg",
     "genre": ["Fiction"],
+    "price": 65500,
     "description": "By the time Carrie retires from tennis, she is the best player the world has ever seen. She has shattered every record and claimed twenty Slam titles. And if you ask her, she is entitled to every one. She sacrificed nearly everything to become the best, with her father as her coach.\n\nBut six years after her retirement, Carrie finds herself sitting in the stands of the 1994 US Open, watching her record be taken from her by a brutal, stunning, British player named Nicki Chan."
   },
   {
@@ -22,7 +24,7 @@
     "title": "House of Sky",
     "author": "Sarah J. Maas",
     "publicationYear": "2022",
-
+    "price": 100000,
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633097753i/40132775.jpg",
     "genre": ["Fantasy"],
     "description": "Bryce Quinlan and Hunt Athalar are trying to get back to normal―they may have saved Crescent City, but with so much upheaval in their lives lately, they mostly want a chance to relax. Slow down. Figure out what the future holds.\n\nThe Asteri have kept their word so far, leaving Bryce and Hunt alone. But with the rebels chipping away at the Asteri’s power, the threat the rulers pose is growing. As Bryce, Hunt, and their friends get pulled into the rebels’ plans, the choice becomes clear: stay silent while others are oppressed, or fight for what’s right. And they’ve never been very good at staying silent."
@@ -32,7 +34,7 @@
     "title": "Book Lovers",
     "author": "Emily Henry",
     "publicationYear": "2022",
-
+    "price": 299900,
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638867089i/58690308.jpg",
     "genre": ["Fiction"],
     "description": "Nora Stephens’ life is books—she’s read them all—and she is not that type of heroine. Not the plucky one, not the laidback dream girl, and especially not the sweetheart. In fact, the only people Nora is a heroine for are her clients, for whom she lands enormous deals as a cutthroat literary agent, and her beloved little sister Libby."
@@ -42,7 +44,7 @@
     "title": "Sea of Tranquility",
     "author": "Emily St. John",
     "publicationYear": "2022",
-
+    "price": 35500,
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626710416i/58446227.jpg",
     "genre": ["Fiction"],
     "description": "A novel of art, time travel, love, and plague that takes the reader from Vancouver Island in 1912 to a dark colony on the moon five hundred years later, unfurling a story of humanity across centuries and space.\n\nEdwin St. Andrew is eighteen years old when he crosses the Atlantic by steamship, exiled from polite society following an ill-conceived diatribe at a dinner party. He enters the forest, spellbound by the beauty of the Canadian wilderness, and suddenly hears th"
@@ -52,7 +54,7 @@
     "title": "Hidden Pictures",
     "author": "Jason Rekulak",
     "publicationYear": "2023",
-
+    "price": 99900,
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635260162i/58724923.jpg",
     "genre": ["Horror"],
     "description": "A wildly inventive spin on the supernatural thriller, about a woman working as a nanny for a young boy with strange and disturbing secrets.\n\nMallory Quinn is fresh out of rehab when she takes a job as a babysitter for Ted and Caroline Maxwell. She is to look after their five-year-old son, Teddy.\n\nMallory immediately loves it. She has her own living space, goes out for nightly runs, and has the stability she craves. And she sincerely bonds with Teddy, a sweet, shy boy who is never without his sketchbook and pencil. His drawings are the usual fare: trees, rabbits, balloons. But one day, he draws something different: a man in a forest, dragging a woman’s lifeless body."
@@ -62,7 +64,7 @@
     "title": "Bad Gays: A Homosexual History",
     "author": "Huw Lemmey",
     "publicationYear": "2022",
-
+    "price": 78900,
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631844850i/59012057.jpg",
     "genre": ["History"],
     "description": "Too many popular histories seek to establish heroes, pioneers and martyrs but as Huw Lemmey and Ben Miller argue, the past is filled with queer people whose sexualities and dastardly deeds have been overlooked. We all remember Oscar Wilde, but who speaks for Bosie? What about those ‘bad gays’ whose unexemplary lives reveals more than we might expect?\n"
@@ -72,7 +74,7 @@
     "title": "Heartstopper: Volume Four",
     "author": "Alice Oseman",
     "publicationYear": "2021",
-
+    "price": 300000,
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640745736i/56060300.jpg",
     "genre": ["Self-help"],
     "description": "Boy meets boy. Boys become friends. Boys fall in love. The bestselling LGBTQ+ graphic novel about life, love, and everything that happens in between: this is the fourth volume of HEARTSTOPPER, for fans of The Art of Being Normal, Holly Bourne and Love, Simon.\n\nCharlie didn't think Nick could ever like him back, but now they're officially boyfriends. Charlie's beginning to feel ready to say those three little words: I love you."
@@ -82,7 +84,7 @@
     "title": "Lessons in Chemistry",
     "author": "Bonnie Garmus",
     "publicationYear": "2022",
-
+    "price": 99900,
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634748496i/58065033.jpg",
     "genre": ["History"],
     "description": "Chemist Elizabeth Zott is not your average woman. In fact, Elizabeth Zott would be the first to point out that there is no such thing as an average woman. But it’s the early 1960s and her all-male team at Hastings Research Institute takes a very unscientific view of equality. Except for one: Calvin Evans; the lonely, brilliant, Nobel–prize nominated grudge-holder who falls in love with—of all things—her mind. True chemistry results."
@@ -92,7 +94,7 @@
     "title": "I’m Glad My Mom Died",
     "author": "Jennette McCurdy",
     "publicationYear": "2022",
-
+    "price": 55500,
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649228846i/59366244.jpg",
     "genre": ["Autobiography"],
     "description": "A heartbreaking and hilarious memoir by iCarly and Sam & Cat star Jennette McCurdy about her struggles as a former child actor—including eating disorders, addiction, and a complicated relationship with her overbearing mother—and how she retook control of her life.\n\nJennette McCurdy was six years old when she had her first acting audition. Her mother’s dream was for her only daughter to become a star, and Jennette would do anything to make her mother happy. So she went along with what Mom called “calorie restriction,” eating little and weighing herself five times a day. She endured extensive at-home makeovers while Mom chided, “Your eyelashes are invisible, okay? You think Dakota Fanning doesn’t tint hers?” She was even showered by Mom until age sixteen while sharing her diaries, email, and all her income."
@@ -102,7 +104,7 @@
     "title": "The Final Gambit",
     "author": "Jennifer Lynn Barnes",
     "publicationYear": "2022",
-
+    "price": 45300,
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634068432i/59233594.jpg",
     "genre": ["Fiction"],
     "description": "To inherit billions, all Avery Kylie Grambs has to do is survive a few more weeks living in Hawthorne House. The paparazzi are dogging her every step. Financial pressures are building. Danger is a fact of life. And the only thing getting Avery through it all is the Hawthorne brothers. Her life is intertwined with theirs. She knows their secrets and they know her."
@@ -112,7 +114,7 @@
     "title": "The Dark Queens",
     "author": "Shelley Puhak",
     "publicationYear": "2022",
-
+    "price": 86600,
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593216033i/53138220.jpg",
     "genre": ["Biography"],
     "description": "Brunhild was a Spanish princess, raised to be married off for the sake of alliance-building. Her sister-in-law Fredegund started out as a lowly palace slave. And yet—in the 6th-century Merovingian Empire, where women were excluded from noble succession and royal politics was a blood sport—these two iron-willed strategists reigned over vast realms for decades, changing the face of Europe."
@@ -123,6 +125,7 @@
     "author": "Harper Lee",
     "publicationYear": "1960",
     "genre": ["Fiction", "Classic"],
+    "price": 99900,
     "description": "A classic novel depicting racial injustice in the American South.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
   },
@@ -131,6 +134,7 @@
     "title": "1984",
     "author": "George Orwell",
     "publicationYear": "1949",
+    "price": 500000,
     "genre": ["Dystopian", "Science Fiction"],
     "description": "A dystopian novel portraying a totalitarian society.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -141,6 +145,7 @@
     "author": "Jane Austen",
     "publicationYear": "1813",
     "genre": ["Classic", "Romance"],
+    "price": 600000,
     "description": "A classic novel exploring themes of love, marriage, and social norms.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
   },
@@ -150,6 +155,7 @@
     "author": "F. Scott Fitzgerald",
     "publicationYear": "1925",
     "genre": ["Fiction", "Classic"],
+    "price": 350000,
     "description": "A tale of the American Dream, wealth, and love during the Roaring Twenties.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
   },
@@ -159,6 +165,7 @@
     "author": "Herman Melville",
     "publicationYear": "1851",
     "genre": ["Fiction", "Adventure"],
+    "price": 65500,
     "description": "The epic tale of Captain Ahab's obsession with the white whale.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
   },
@@ -168,6 +175,7 @@
     "author": "J.R.R. Tolkien",
     "publicationYear": "1954",
     "genre": ["Fantasy", "Adventure"],
+    "price": 500000,
     "description": "An epic fantasy saga about the quest to destroy the One Ring.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
   },
@@ -177,6 +185,7 @@
     "author": "J.D. Salinger",
     "publicationYear": "1951",
     "genre": ["Fiction", "Coming-of-age"],
+    "price": 400000,
     "description": "A classic coming-of-age novel following Holden Caulfield's journey.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
   },
@@ -186,6 +195,7 @@
     "author": "J.R.R. Tolkien",
     "publicationYear": "1937",
     "genre": ["Fantasy", "Adventure"],
+    "price": 65000,
     "description": "The prequel to The Lord of the Rings, following Bilbo Baggins' journey.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
   },
@@ -195,6 +205,7 @@
     "author": "Gabriel Garcia Marquez",
     "publicationYear": "1967",
     "genre": ["Magical Realism", "Literary Fiction"],
+    "price": 299900,
     "description": "A multi-generational saga of the Buendía family in the fictional town of Macondo.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
   },
@@ -203,6 +214,7 @@
     "title": "War and Peace",
     "author": "Leo Tolstoy",
     "publicationYear": "1869",
+    "price": 100000,
     "genre": ["Historical Fiction", "Epic"],
     "description": "A monumental work depicting the events of Russian society during the Napoleonic era.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -213,6 +225,7 @@
     "author": "Homer",
     "publicationYear": "8th century BCE",
     "genre": ["Epic", "Mythology"],
+    "price": 350000,
     "description": "An ancient Greek epic poem recounting Odysseus' ten-year journey home after the Trojan War.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
   },
@@ -222,6 +235,7 @@
     "author": "Dante Alighieri",
     "publicationYear": "1320",
     "genre": ["Epic", "Poetry"],
+    "price": 45300,
     "description": "An epic poem that follows the journey of the soul through Hell, Purgatory, and Heaven.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
   },
@@ -231,6 +245,7 @@
     "author": "Fyodor Dostoevsky",
     "publicationYear": "1880",
     "genre": ["Classic", "Philosophical Fiction"],
+    "price": 400000,
     "description": "A complex novel exploring themes of spirituality, morality, and human nature.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
   },
@@ -239,6 +254,7 @@
     "title": "Crime and Punishment",
     "author": "Fyodor Dostoevsky",
     "publicationYear": "1866",
+    "price": 78900,
     "genre": ["Classic", "Psychological Fiction"],
     "description": "A psychological thriller revolving around guilt, conscience, and redemption.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -248,6 +264,7 @@
     "title": "The Picture of Dorian Gray",
     "author": "Oscar Wilde",
     "publicationYear": "1890",
+    "price": 400000,
     "genre": ["Gothic", "Philosophical Fiction"],
     "description": "A novel about a man whose portrait ages while he retains his youth and beauty.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -257,6 +274,7 @@
     "title": "Brave New World",
     "author": "Aldous Huxley",
     "publicationYear": "1932",
+    "price": 86600,
     "genre": ["Dystopian", "Science Fiction"],
     "description": "A dystopian vision of a future society obsessed with pleasure and conformity.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -266,6 +284,7 @@
     "title": "The Count of Monte Cristo",
     "author": "Alexandre Dumas",
     "publicationYear": "1844",
+    "price": 35500,
     "genre": ["Adventure", "Historical Fiction"],
     "description": "An adventure novel of revenge, love, and redemption set in the early 19th century.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -275,6 +294,7 @@
     "title": "Anna Karenina",
     "author": "Leo Tolstoy",
     "publicationYear": "1877",
+    "price": 299900,
     "genre": ["Classic", "Romance"],
     "description": "A tragic love story set against the backdrop of Russian high society.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -284,6 +304,7 @@
     "title": "The Alchemist",
     "author": "Paulo Coelho",
     "publicationYear": "1988",
+    "price": 45300,
     "genre": ["Fiction", "Philosophical"],
     "description": "A philosophical novel about a shepherd boy's journey to find his personal legend.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -293,6 +314,7 @@
     "title": "The Adventures of Huckleberry Finn",
     "author": "Mark Twain",
     "publicationYear": "1884",
+    "price": 500000,
     "genre": ["Adventure", "Satire"],
     "description": "A satirical novel following Huck Finn's journey down the Mississippi River.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -302,6 +324,7 @@
     "title": "The Iliad",
     "author": "Homer",
     "publicationYear": "8th century BCE",
+    "price": 600000,
     "genre": ["Epic", "Mythology"],
     "description": "An ancient Greek epic poem about the Trojan War and the hero Achilles.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -311,6 +334,7 @@
     "title": "The Lord of the Rings",
     "author": "J.R.R. Tolkien",
     "publicationYear": "1954",
+    "price": 53200,
     "genre": ["Fantasy", "Adventure"],
     "description": "A thrilling epic about the quest to destroy the One Ring and save Middle-earth from the dark lord Sauron.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -320,6 +344,7 @@
     "title": "Don Quixote",
     "author": "Miguel de Cervantes",
     "publicationYear": "1605",
+    "price": 55500,
     "genre": ["Classic", "Satire"],
     "description": "A satirical novel about a deluded knight and his faithful squire, Sancho Panza.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -329,6 +354,7 @@
     "title": "Frankenstein",
     "author": "Mary Shelley",
     "publicationYear": "1818",
+    "price": 500000,
     "genre": ["Gothic", "Science Fiction"],
     "description": "A novel about the creation of a monster and the consequences of playing god.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -338,6 +364,7 @@
     "title": "Alice's Adventures in Wonderland",
     "author": "Lewis Carroll",
     "publicationYear": "1865",
+    "price": 350000,
     "genre": ["Fantasy", "Children's Literature"],
     "description": "A whimsical tale about a girl named Alice who falls into a magical world.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -347,6 +374,7 @@
     "title": "The Little Prince",
     "author": "Antoine de Saint-Exupéry",
     "publicationYear": "1943",
+    "price": 35500,
     "genre": ["Fable", "Children's Literature"],
     "description": "A philosophical novella about a young prince's journey through the universe.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -356,6 +384,7 @@
     "title": "The Book Thief",
     "author": "Markus Zusak",
     "publicationYear": "2005",
+    "price": 99900,
     "genre": ["Historical Fiction", "War"],
     "description": "A story of a girl living in Nazi Germany, narrated by Death.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -365,6 +394,7 @@
     "title": "Slaughterhouse-Five",
     "author": "Kurt Vonnegut",
     "publicationYear": "1969",
+    "price": 78900,
     "genre": ["Satire", "Science Fiction"],
     "description": "An anti-war novel that mixes science fiction and dark humor.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -374,6 +404,7 @@
     "title": "The Grapes of Wrath",
     "author": "John Steinbeck",
     "publicationYear": "1939",
+    "price": 86600,
     "genre": ["Historical Fiction", "Social Commentary"],
     "description": "A novel about the plight of migrant workers during the Great Depression.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -383,6 +414,7 @@
     "title": "Fahrenheit 451",
     "author": "Ray Bradbury",
     "publicationYear": "1953",
+    "price": 65500,
     "genre": ["Dystopian", "Science Fiction"],
     "description": "A dystopian novel depicting a future society where books are banned.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -392,6 +424,7 @@
     "title": "The Lord of the Flies",
     "author": "William Golding",
     "publicationYear": "1954",
+    "price": 350000,
     "genre": ["Dystopian", "Psychological Fiction"],
     "description": "A novel about a group of British boys stranded on an uninhabited island.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -401,6 +434,7 @@
     "title": "The Hitchhiker's Guide to the Galaxy",
     "author": "Douglas Adams",
     "publicationYear": "1979",
+    "price": 300000,
     "genre": ["Science Fiction", "Comedy"],
     "description": "A comedic science fiction series about the misadventures of Arthur Dent.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -410,6 +444,7 @@
     "title": "A Tale of Two Cities",
     "author": "Charles Dickens",
     "publicationYear": "1859",
+    "price": 55500,
     "genre": ["Historical Fiction", "Classic"],
     "description": "A historical novel set during the French Revolution, exploring themes of sacrifice and resurrection.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -419,6 +454,7 @@
     "title": "The Chronicles of Narnia",
     "author": "C.S. Lewis",
     "publicationYear": "1950",
+    "price": 299900,
     "genre": ["Fantasy", "Children's Literature"],
     "description": "A series of fantasy novels set in the magical land of Narnia.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -428,6 +464,7 @@
     "title": "The Handmaid's Tale",
     "author": "Margaret Atwood",
     "publicationYear": "1985",
+    "price": 350000,
     "genre": ["Dystopian", "Feminist Fiction"],
     "description": "A dystopian novel set in a totalitarian society where women are subjugated.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -437,6 +474,7 @@
     "title": "The Name of the Rose",
     "author": "Umberto Eco",
     "publicationYear": "1980",
+    "price": 26500,
     "genre": ["Historical Fiction", "Mystery"],
     "description": "A medieval mystery novel set in an Italian monastery.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -446,6 +484,7 @@
     "title": "The Trial",
     "author": "Franz Kafka",
     "publicationYear": "1925",
+    "price": 300000,
     "genre": ["Absurdist Fiction", "Existential"],
     "description": "A surreal novel exploring themes of guilt, law, and justice.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -455,6 +494,7 @@
     "title": "The Kite Runner",
     "author": "Khaled Hosseini",
     "publicationYear": "2003",
+    "price": 300000,
     "genre": ["Historical Fiction", "Drama"],
     "description": "A novel about friendship, redemption, and the impact of war in Afghanistan.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -464,6 +504,7 @@
     "title": "The Pillars of the Earth",
     "author": "Ken Follett",
     "publicationYear": "1989",
+    "price": 99900,
     "genre": ["Historical Fiction", "Adventure"],
     "description": "An epic historical novel set in 12th-century England, centered around the construction of a cathedral.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -473,6 +514,7 @@
     "title": "The Shadow of the Wind",
     "author": "Carlos Ruiz Zafón",
     "publicationYear": "2001",
+    "price": 600000,
     "genre": ["Mystery", "Gothic"],
     "description": "A mystery novel set in post-war Barcelona, revolving around a forgotten book and its author.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -482,6 +524,7 @@
     "title": "The Secret Garden",
     "author": "Frances Hodgson Burnett",
     "publicationYear": "1911",
+    "price": 350000,
     "genre": ["Children's Literature", "Classic"],
     "description": "A classic children's novel about a young girl who discovers a hidden garden.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -491,6 +534,7 @@
     "title": "The Giver",
     "author": "Lois Lowry",
     "publicationYear": "1993",
+    "price": 26500,
     "genre": ["Dystopian", "Young Adult"],
     "description": "A dystopian novel about a society with strict control over emotions and memories.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -500,6 +544,7 @@
     "title": "The Metamorphosis",
     "author": "Franz Kafka",
     "publicationYear": "1915",
+    "price": 65300,
     "genre": ["Absurdist Fiction", "Existential"],
     "description": "A novella about a man who wakes up one morning transformed into a giant insect.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -509,6 +554,7 @@
     "title": "Gone with the Wind",
     "author": "Margaret Mitchell",
     "publicationYear": "1936",
+    "price": 400000,
     "genre": ["Historical Fiction", "Romance"],
     "description": "A historical novel set during the American Civil War, centered around Scarlett O'Hara.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -518,6 +564,7 @@
     "title": "The Wind in the Willows",
     "author": "Kenneth Grahame",
     "publicationYear": "1908",
+    "price": 400000,
     "genre": ["Children's Literature", "Fantasy"],
     "description": "A children's novel about the adventures of anthropomorphic animals.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -527,6 +574,7 @@
     "title": "Dracula",
     "author": "Bram Stoker",
     "publicationYear": "1897",
+    "price": 300000,
     "genre": ["Gothic", "Horror"],
     "description": "A Gothic horror novel about the vampire Count Dracula's attempt to move to England.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -536,6 +584,7 @@
     "title": "The Call of the Wild",
     "author": "Jack London",
     "publicationYear": "1903",
+    "price": 26500,
     "genre": ["Adventure", "Nature"],
     "description": "An adventure novel about a domestic dog's life in the wilds of the Yukon.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -545,6 +594,7 @@
     "title": "The Stand",
     "author": "Stephen King",
     "publicationYear": "1978",
+    "price": 300000,
     "genre": ["Horror", "Post-Apocalyptic"],
     "description": "A post-apocalyptic horror novel about a deadly pandemic and its aftermath.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
@@ -553,6 +603,7 @@
     "id": 49,
     "title": "The Color Purple",
     "author": "Alice Walker",
+    "price": 600000,
     "publicationYear": "1982",
     "genre": ["Fiction", "Historical"],
     "description": "A novel about the life of African-American women in the Southern United States.",
@@ -563,6 +614,7 @@
     "title": "The Silmarillion",
     "author": "J.R.R. Tolkien",
     "publicationYear": "1977",
+    "price": 86600,
     "genre": ["Fantasy", "Mythopoeia"],
     "description": "A collection of mythopoeic stories about the history of Middle-earth.",
     "coverImage": "https://fakeimg.pl/667x1000/cc6600"
