@@ -39,6 +39,7 @@ router.post(
   bookController.addBook
 );
 router.get("/", jwtCheck, jwtParse, bookController.myAddedBooks);
-router.get("/search", jwtCheck, jwtParse, bookController.searchBook);
+router.get("/search", bookController.searchBook);
+router.get("/book/:bookId", bookController.getSingleBookForSearch);
 
 export default router;

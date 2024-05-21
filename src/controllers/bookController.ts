@@ -100,23 +100,37 @@ const searchBook = async (req: Request, res: Response) => {
     const page = req.query.page ? Number(req.query.page) : 1;
     const skip = (page - 1) * pageSize;
     let query: any = {};
+    const selectedGenre = (req.query.selectedGenre as string) || "";
     if (req.query.query) {
       query.$or = [
         { title: { $regex: req.query.query, $options: "i" } },
         { author: { $regex: req.query.query, $options: "i" } },
       ];
     }
-    const count = await Books.countDocuments(req.query);
+    if (selectedGenre) {
+      const selectedGenreArr = selectedGenre
+        .split(",")
+        .map((genre) => new RegExp(genre, "i"));
+      query["genre"] = { $all: selectedGenreArr };
+    }
+
+    let sort: any = {};
+    if (req.query.sort) {
+      sort["price"] = req.query.sort === "asc" ? 1 : -1;
+    } else {
+      sort["updatedAt"] = -1;
+    }
+
+    let count = await Books.countDocuments(query);
+    if (count === 0) {
+      delete query["$or"];
+    }
+
     let book: any = [];
     let total = 0;
-    if (count !== 0) {
-      console.log(query);
-      book = await Books.find(query).skip(skip).limit(pageSize);
-      total = await Books.countDocuments(req.query);
-    } else {
-      book = await Books.find().skip(skip).limit(pageSize);
-      total = await Books.countDocuments();
-    }
+    book = await Books.find(query).skip(skip).limit(pageSize).sort(sort);
+    total = await Books.countDocuments(query);
+
     const response = {
       data: book,
       pagination: {
@@ -132,10 +146,27 @@ const searchBook = async (req: Request, res: Response) => {
   }
 };
 
+const getSingleBookForSearch = async (req: Request, res: Response) => {
+  try {
+    const { bookId } = req.params;
+    const book = await Books.findOne({
+      _id: bookId,
+    });
+    if (!book) {
+      return res.status(404).json({ message: "Not Found" });
+    }
+    res.json(book);
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ message: "Something went wrong" });
+  }
+};
+
 export default {
   addBook,
   myAddedBooks,
   getSingleBookById,
   updateBook,
   searchBook,
+  getSingleBookForSearch,
 };
