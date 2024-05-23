@@ -5,6 +5,7 @@ import cors from "cors";
 import { v2 as cloudinary } from "cloudinary";
 import userRouter from "./routes/userRoute";
 import bookRouter from "./routes/bookRoute";
+import orderRouter from "./routes/orderRoute";
 
 const PORT = process.env.PORT || 7000;
 
@@ -24,12 +25,14 @@ cloudinary.config({
 const app = express();
 
 app.use(cors());
+app.use("/api/order/checkout/webhook", express.raw({ type: "*/*" }));
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.use("/api/user", userRouter);
 app.use("/api/books", bookRouter);
+app.use("/api/order", orderRouter);
 
 app.get("/health", (req: Request, res: Response) => {
   res.json({ message: "health ok" });

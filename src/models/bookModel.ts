@@ -1,5 +1,17 @@
 import mongoose, { mongo } from "mongoose";
 
+export type BookType = {
+  _id: mongoose.Types.ObjectId;
+  user: mongoose.Types.ObjectId;
+  title: string;
+  author: string;
+  coverImage: string;
+  description: string;
+  genre: string[];
+  publicationYear: string;
+  price: number;
+};
+
 interface IBooks {
   user: mongoose.Types.ObjectId;
   title: string;
